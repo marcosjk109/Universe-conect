@@ -1,0 +1,45 @@
+{
+    "theme_color": "#00fffb",
+    "theme-color": "#00fffb",
+    "background_color": "#00fffb",
+    "background-color": "#00fffb",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "./?=PWA",
+    "name": "Universe",
+    "short_name": "Conect",
+    "description": "conect",
+    "icons":
+    [
+        {
+            "src": "images/galaxy.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "images/galaxy.png",
+            "sizes": "384x384",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "images/galaxy.png",
+            "sizes": "256x256",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "images/galaxy.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "images/galaxy.png",
+            "sizes": "32x32",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
